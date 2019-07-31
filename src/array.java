@@ -1,9 +1,6 @@
-import java.lang.reflect.Array;
-
 public class array {
 
     static Integer[][] arr = new Integer[4][4];
-
 
     public static void inputArray(String[][] input) throws MyArraySizeException, MyArrayDataException{
         try {
